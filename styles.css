@@ -1,43 +1,16 @@
-body {background-color: rgba(83, 98, 99, 0.5);
-    color: rgb(0, 0, 0);}
+body {background-color: black;
+color: white;}
+h1{font-size: 20px;}
+p {font-size: 12px; color: green;}
 
-
-    #nav ul {list-style-type: none; padding: 0.5%; text-align: center;
+div {border: dotted 2px; width: 300px; height: 50px; color: green;
+text-align: center;
+padding-top: 1%;}
+ol {list-style-type: lower-alpha;}
+ul {list-style-type: square;}
+#nav ul {list-style-type: none; padding: 0.5%; text-align: left;
     margin-top: 0px;}
     #nav a {text-decoration: none;}
     #nav li {display: inline; font-size: larger;}
     #nav {background-color: rgba(85, 100, 101, 0.4);}
     nav a:hover{color: red;}
-    #header {background-color: rgba(105, 123, 124, 0.4) ;
-    padding: 2%;
-text-align: center;}
-
-    #kuvia {background-color: rgba(124, 145, 146, 0.4);}
-
-    .tieto {font-size: 1em;}
-
-    body { width: 90%;
-        margin-left: auto;
-        margin-right: auto;
-        }  
-
-    #sivu ul{list-style-type: none; margin-top: 0%;}
-    #sivu a{text-decoration: none;}
-    #sivu li {font-size: large;}
-    #sivu {float: left;
-    width: 15%;
-    height: 900px;
-    margin-top: 0%;
-    padding-top: 2%;
-background-color:rgba(124, 145, 146, 0.4);}
-
-
-section {float: left;
-width: 45%;}
-
-#sivuteksti {padding-left: 15%;}
-
-#harrastukset {float: left;
-width: auto;}
-
-p {font-size: medium; font-family: Arial, Helvetica, sans-serif;}

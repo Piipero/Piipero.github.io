@@ -1,0 +1,37 @@
+body {background-color: rgba(83, 98, 99, 0.5);
+    color: rgb(0, 0, 0);}
+
+
+    h1{font-size: 40px; border: solid 3px; padding-inline-start: 45%;}
+    #alku {font-size: 20px;
+    border: solid 2px; border-radius: 100px; padding-inline-start: 35% ;}
+    
+    .esittely {border: dotted 2px; width: 600px; color: rgb(5, 5, 5);
+    text-align: center;}
+    ol {list-style-type: lower-alpha;}
+    ul {list-style-type: square;}
+    div {position:absolute;
+    left: 600px;
+top:300px;
+width: 400px;}
+    #ulkona {float: right;
+right: 1%;
+top: 200px;}
+
+#nav ul {list-style-type: none; padding: 0.5%; text-align: center;
+    margin-top: 0px;}
+    #nav a {text-decoration: none;}
+    #nav li {display: inline; font-size: larger;}
+    #nav {background-color: rgba(85, 100, 101, 0.4);}
+
+    #header {background-color: rgba(105, 123, 124, 0.4) ;
+    padding: 2%;
+text-align: center;}
+
+#nav ul {list-style-type: none; padding: 0.5%; text-align: center;
+    margin-top: 0px;}
+    #nav a {text-decoration: none;}
+    #nav li {display: inline; font-size: larger;}
+    #nav {background-color: rgba(85, 100, 101, 0.4);}
+    nav a:hover{color: red;}
+
