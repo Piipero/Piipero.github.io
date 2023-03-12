@@ -1,8 +1,43 @@
-body{background-color: blueviolet;
-    color: rgb(15, 15, 15);}
-    
-    div{background-color: blue}
+body {background-color: rgba(83, 98, 99, 0.5);
+    color: rgb(0, 0, 0);}
 
-    header{background-color: pink;}
-    
-    .red {color: red;}
+
+    #nav ul {list-style-type: none; padding: 0.5%; text-align: center;
+    margin-top: 0px;}
+    #nav a {text-decoration: none;}
+    #nav li {display: inline; font-size: larger;}
+    #nav {background-color: rgba(85, 100, 101, 0.4);}
+    nav a:hover{color: red;}
+    #header {background-color: rgba(105, 123, 124, 0.4) ;
+    padding: 2%;
+text-align: center;}
+
+    #kuvia {background-color: rgba(124, 145, 146, 0.4);}
+
+    .tieto {font-size: 1em;}
+
+    body { width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        }  
+
+    #sivu ul{list-style-type: none; margin-top: 0%;}
+    #sivu a{text-decoration: none;}
+    #sivu li {font-size: large;}
+    #sivu {float: left;
+    width: 15%;
+    height: 900px;
+    margin-top: 0%;
+    padding-top: 2%;
+background-color:rgba(124, 145, 146, 0.4);}
+
+
+section {float: left;
+width: 45%;}
+
+#sivuteksti {padding-left: 15%;}
+
+#harrastukset {float: left;
+width: auto;}
+
+p {font-size: medium; font-family: Arial, Helvetica, sans-serif;}
